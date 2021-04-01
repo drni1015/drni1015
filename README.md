@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drni1015
+- 👋 Hi, I’m Nico
 - 👀 I’m interested in Skateboarding, Surfing, Snowboarding, Traveling, Programming
 - 🌱 I’m currently learning Python & C++ 
 - 💞️ I’m looking to collaborate on ...
